@@ -10,6 +10,7 @@ Atualmente estou em transição de carreira, saindo da área de auxiliar adminis
     
 </p>
 
+[![Rayane stats](https://github-readme-stats.vercel.app/api?username=rayanelops16)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
